@@ -6,5 +6,6 @@
    
 ## Tools Used:
     Google Firebase  
-    Google MAP APIS
+    Google MAP API
+    
 [Download APK](https://github.com/Gizemsolum/Traveller-Social-Media/raw/master/travellersocialmedia.apk)
