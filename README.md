@@ -1,5 +1,6 @@
 # Traveller Social Media Application
-![](https://github.com/Gizemsolum/Traveller-Social-Media\Media\ezgif-5-88745de24dc1.gif)
+
+![Traveller-Social-Media-Application](https://user-images.githubusercontent.com/52774050/91492103-b61c6a80-e8bd-11ea-9a9b-d15eee8decd3.gif)
 
 ## Description:
   This application is a social media where people can share their experiences and inspire those who want to travel. 
