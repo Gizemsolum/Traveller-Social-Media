@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400052928440",
+    "firebase_url": "https://travellertermproject.firebaseio.com",
+    "project_id": "travellertermproject",
+    "storage_bucket": "travellertermproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400052928440:android:509bacc0700ab215ac194d",
+        "android_client_info": {
+          "package_name": "com.gizemsolum.travellerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400052928440-d580o0d0a3nmcsv74iq520ujrjrn3f32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gizemsolum.travellerapplication",
+            "certificate_hash": "f19d759d0c6aa66b565d5e7fabf12481db1db8b6"
+          }
+        },
+        {
+          "client_id": "400052928440-b7ug24r7pc80o3720g809r2dk7obfh61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCze2cjA_g2xUF9TbBFAR7yyNxUgjial1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400052928440-b7ug24r7pc80o3720g809r2dk7obfh61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
