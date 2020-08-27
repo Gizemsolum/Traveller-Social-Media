@@ -1,5 +1,6 @@
 # Traveller Social Media Application
 
+![](C:\Users\USER\Documents\GitHub\Traveller-Social-Media\Media\ezgif-5-88745de24dc1.gif)
 ![](https://github.com/alihan98ersoy/Covid-19/blob/master/ezgif-5-88745de24dc1.gif)
 
 ## Description:
