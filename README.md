@@ -1,28 +1,26 @@
 # Traveller Social Media Application
-
-![](C:\Users\USER\Documents\GitHub\Traveller-Social-Media\Media\ezgif-5-88745de24dc1.gif)
-![](https://github.com/alihan98ersoy/Covid-19/blob/master/ezgif-5-88745de24dc1.gif)
+![](https://github.com/Gizemsolum/Traveller-Social-Media\Media\ezgif-5-88745de24dc1.gif)
 
 ## Description:
   This application is a social media where people can share their experiences and inspire those who want to travel. 
 
-✓User Registration
-✓User Login
-✓Recover Password
-✓Google Sign In
-✓Setup User Profile
-✓Show User Profile
-✓Edit User Profile
-✓Show All Registered Users
-✓Search Users
-✓Chat (send text)
-✓ChatList
-✓Publish Post 
-✓Post List with Search
-✓Other User's Profile
-✓Edit, Delete 
-✓Like, Comment, Share(text and image and mp4 format) Posts
-✓Search Place/Places on Google MAP
+✓User Registration <br />
+✓User Login <br />
+✓Recover Password <br />
+✓Google Sign In <br />
+✓Setup User Profile <br />
+✓Show User Profile <br />
+✓Edit User Profile <br />
+✓Show All Registered Users <br />
+✓Search Users <br />
+✓Chat (send text) <br />
+✓ChatList <br />
+✓Publish Post <br />
+✓Post List with Search <br />
+✓Other User's Profile <br />
+✓Edit, Delete <br />
+✓Like, Comment, Share(text and image and mp4 format) Posts <br />
+✓Search Place/Places on Google MAP <br />
 
 ## Tools Used:
     Google Firebase  
